@@ -2,11 +2,7 @@
 
 In order to get anything going with PixiJS, you have to set up an environment to work in, familiarize yourself with the basic template in HTML and hook the page up with the PixiJS library. That will be a great target for this first chapter and hopefully we will end up with something on the screen.
 
-
-
 ## Draw something on the screen
-
-
 
 ```js
 <!DOCTYPE html>

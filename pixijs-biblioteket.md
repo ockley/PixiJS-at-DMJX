@@ -1,6 +1,4 @@
-# PixiJS biblioteket
-
-
+# Setting up the viewport
 
 ```js
 <!DOCTYPE html>
@@ -16,14 +14,14 @@
   <script>
     var app = new PIXI.Application();
     document.body.appendChild(app.view);
-    
+
     var circle = new PIXI.Graphics();
     circle.beginFill(0xFF0000);
     circle.drawCircle(100, 100, 40);
     circle.endFill();
     app.stage.addChild(circle);
   </script>
-  
+
 </body>
 </html>
 ```
