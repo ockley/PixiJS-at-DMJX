@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Up and running with PixiJS](chapter1.md)
 * [PixiJS biblioteket](pixijs-biblioteket.md)
 
